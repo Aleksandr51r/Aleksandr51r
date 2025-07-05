@@ -3,6 +3,7 @@
 
 <!-- -  I strive to learn tech deeply, not superficially. -->
 ` -  Currently diving into Kubernetes  and DevOps practices ` <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="25" /></a>  
+<!--
 
 <br/>
 
